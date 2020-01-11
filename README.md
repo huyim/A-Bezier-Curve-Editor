@@ -1,6 +1,7 @@
 # A-Bezier-Curve-Editor
 
 [EN]
+
 **Before Drawing**
   1. Using Makefile to generate executable.
   2. Using command './bezier' to run the program.
