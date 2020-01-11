@@ -3,8 +3,9 @@
 [EN]
 
 **Before Drawing**
-  1. Using Makefile to generate executable.
-  2. Using command './bezier' to run the program.
+  1. OpenGL environment.
+  2. Using Makefile to generate executable.
+  3. Using command './bezier' to run the program.
 
 **Basic Operations**
   1. Add Points
