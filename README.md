@@ -9,7 +9,9 @@
 
 **Basic Operations**
   1. Add Points
+  
     Click the window, and a point will be drawn at the position you click.
+    
   2. Draw Beizer Curve
   
     (1)Press 'b' on your keyboard to draw a Beizer curve after adding points.
